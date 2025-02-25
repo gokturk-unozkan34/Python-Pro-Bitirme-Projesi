@@ -2,4 +2,7 @@
 Kodland Python Pro kursunun bitirme projesini içeren repo.
 
 # Projemin açıklaması
-marmara,akdeniz gibi bölgelerdeki iklim değişikliğinin nedenini açıklayan  bir uygulama
+marmara,akdeniz gibi bölgelerdeki iklim değişikliğinin nedenini açıklayan  bir uygulama  
+
+# PROJEMİN TÜRÜ
+web sitesi olarak YApılacak
